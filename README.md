@@ -1,7 +1,7 @@
 # InteractiveMarkerMap-using-PHP-and-SQL
 InteractiveMarkerMap is a web app using Leaflet.js for mapping and PHP with SQL for server-side operations. Users can mark, visualize, and manage locations on a map with ease. Whether planning trips or analyzing data, it offers a seamless mapping solution.
 
-This README includes the steps for installation, usage instructions, guidelines for contributing, license information, and credits to Leaflet.js, PHP, and SQL. You can copy and paste this content into your README file. Let me know if you need any further adjustments!
+This README includes the steps for installation, usage instructions, guidelines for contributing, license information, and credits to Leaflet.js, PHP, and SQL.
 
 ## Installation/Setup
 
